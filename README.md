@@ -14,6 +14,7 @@ Ensure you have the following installed:
 ## Getting Started
 
 To get started with the framework, follow these steps:
+![Screenshot](https://raw.githubusercontent.com/Iamshaibaz/Java_Selenium_BDD_Framework/main/src/test/resources/features/Screenshot%202024-09-01%20144420.png)
 
 ### 1. Clone the Repository
 
@@ -22,6 +23,6 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Iamshaibaz/Java_Selenium_BDD_Framework.git
 cd Java_Selenium_BDD_Framework
-![Screenshot](https://raw.githubusercontent.com/Iamshaibaz/Java_Selenium_BDD_Framework/main/src/test/resources/features/Screenshot%202024-09-01%20144420.png)
+
 
 
