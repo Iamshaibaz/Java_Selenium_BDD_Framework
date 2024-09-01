@@ -1,0 +1,39 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Eclipse Core Resources
+.metadata/
+
+# Maven specific files
+target/
+!target/*.jar
+!target/*.pom
+
+# Gradle specific files
+.gradle/
+build/
+
+# IntelliJ IDEA specific files (if using IntelliJ IDEA)
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Dependency directories
+lib/
+*.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# BDD framework specific files
+cucumber-report/
+cucumber-json/
+cucumber-html/
