@@ -22,5 +22,6 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Iamshaibaz/Java_Selenium_BDD_Framework.git
 cd Java_Selenium_BDD_Framework
-https://github.com/user-attachments/assets/895fde05-38c0-4c18-8679-2cb462d0b423
+![Screenshot](https://raw.githubusercontent.com/Iamshaibaz/Java_Selenium_BDD_Framework/main/src/test/resources/features/Screenshot%202024-09-01%20144420.png)
+
 
