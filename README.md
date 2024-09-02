@@ -23,6 +23,6 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Iamshaibaz/Java_Selenium_BDD_Framework.git
 cd Java_Selenium_BDD_Framework
-
+mvn test
 
 
