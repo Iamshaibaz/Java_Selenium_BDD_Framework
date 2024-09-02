@@ -15,6 +15,8 @@ Ensure you have the following installed:
 
 To get started with the framework, follow these steps:
 ![Screenshot 2024-09-01 144420](https://github.com/user-attachments/assets/4e6ec5c3-2043-40ae-96a9-398b11e3ea93)
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/d692d742-d29a-432c-a76c-0e2508e0d691">
+
 
 ### 1. Clone the Repository
 
