@@ -9,6 +9,7 @@ import io.cucumber.junit.CucumberOptions;
     features = "src/test/resources/features",
     glue = "stepDefinitions",
     monochrome = true,
+    tags = "@smoke",
     plugin = { "pretty", "html:target/HtmlReports/reports.html" }
    // plugin = { "pretty", "json:target/jsonReports/report.json" }
    // plugin = { "pretty", "junit:target/JunitReports/report.xml" }
