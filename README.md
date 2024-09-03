@@ -6,7 +6,7 @@ This repository provides a framework for automated browser testing using Seleniu
 
 Ensure you have the following installed:
 
-1. **Java Development Kit (JDK)** - Java 8 or later.
+1. **Java Development Kit (JDK)** - Java 11 or later.
 2. **Maven** - For managing project dependencies and builds.
 3. **IDE** - IntelliJ IDEA, Eclipse, or any preferred Java IDE.
 4. **ChromeDriver** - For testing on Google Chrome. Download it from [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) and ensure it is in your system’s PATH.
