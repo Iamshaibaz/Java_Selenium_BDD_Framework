@@ -2,6 +2,9 @@
 
 This repository provides a framework for automated browser testing using Selenium WebDriver with Cucumber for Behavior-Driven Development (BDD) in Java. This setup facilitates writing and executing BDD tests with a clean and maintainable structure.
 
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/01dccb46-0fcf-4982-9b24-641e5540c069">
+
+
 ## Prerequisites
 
 Ensure you have the following installed:
