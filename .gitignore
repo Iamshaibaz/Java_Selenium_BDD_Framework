@@ -37,3 +37,5 @@ Thumbs.db
 cucumber-report/
 cucumber-json/
 cucumber-html/
+
+bin
