@@ -1,31 +1,15 @@
 //package stepDefinitions;
 //
-//import java.util.concurrent.TimeUnit;
-//
-//import org.openqa.selenium.By;
-//import org.openqa.selenium.WebDriver;
-//import org.openqa.selenium.chrome.ChromeDriver;
-//
 //import io.cucumber.java.en.*;
 //import pages.LoginPage;
-//import org.apache.logging.log4j.LogManager;
-//import org.apache.logging.log4j.Logger;
+//import genericUtils.*;
 //
-//public class HeroKuAppStepDef2 {
-//
-//    private static final Logger logger = LogManager.getLogger(HeroKuAppStepDef2.class);
-//    WebDriver driver = null;
+//public class HeroKuAppStepDefWithBaseClass extends BaseClass {
 //
 //    @Given("Open the browser now")
 //    public void open_the_browser_now() {
-//        logger.info("Initializing the ChromeDriver");
-//        System.getProperty("webdriver.chrome.driver",
-//				"/Java_Selenium_BDD_Framework/src/test/resources/drivers/chromedriver.exe");
-//        driver = new ChromeDriver();
-//        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-//        driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-//        driver.manage().window().maximize();
-//        logger.info("Browser launched and maximized");
+//        // No need to initialize WebDriver here; it's handled in BaseClass
+//        logger.info("WebDriver is already initialized by BaseClass");
 //    }
 //
 //    @And("Navigate to the Login Page")
@@ -60,8 +44,5 @@
 //            logger.error("Login failed or user is not on the Home page");
 //        }
 //        Thread.sleep(2000);
-//        driver.close();
-//        driver.quit();
-//        logger.info("Browser closed and quit");
 //    }
 //}
